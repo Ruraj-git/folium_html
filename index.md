@@ -9,8 +9,7 @@
 - Domace kureniska interaktivne a staicke mapy
 - Interaktivna siet NMSKO  
 
-[RIO maps](rio_terrain.html)
+[Polutanty 2020  maps](rio_2020.html)
 
-- Vystupy z modelovania interpolacnym modelom RIO ( 1km rozlisenie)
-- Vystupy z aladin 2km modelu pre rok 2020
-- Rocne priemery pre NMSKO stanice 
+- Rocne priemery a max 8h pre rok 2020
+- Komninacia modelov RIO a CMAQ
