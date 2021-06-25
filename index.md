@@ -13,3 +13,7 @@
 
 - Rocne priemery a max 8h (CO) pre rok 2020
 - Kombinacia modelov RIO a CMAQ
+
+[OROKO 2021] (orko_2021.html)
+- Rizikove oblasti
+- Jednotlive hranice ORKO 
