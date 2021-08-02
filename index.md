@@ -3,12 +3,11 @@
 
 [ORKO maps](orko_tif_new2.html)
 
-- Rizikove oblasti urcene na zaklade RIO CMAQ modelov
-- Potenicalne rizikove oblasti vytvorene na zaklade primernej rychlosti vetra nizsej ako 2 m/s ( aladin 2km)
-- NEIS zdroje v interaktivnej podobe pre rok 2019
-- Domace kureniska interaktivne a staticke mapy
 - Rizikove obce - mapa vytvorena na baze rankingu zohladnujucom mnozstvo emsii z domacich kurenisk a modelovych vypoctov rizikovych oblasti
 - Rizikove okresy - okres sa povazuje za rizikovy ak pocet rizikovych obci v okrese je 50 % a viac
+- Interaktivna mapa kurenisk
+- NEIS zdroje v interaktivnej podobe pre rok 2019
+- Domace kureniska interaktivne a staticke mapy
 - Interaktivna siet NMSKO  
 
 [Polutanty 2020  maps](rio_2020.html)
