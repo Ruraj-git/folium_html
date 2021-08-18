@@ -1,10 +1,10 @@
 #  Podklady pre programy na zlepsenie kvality ovzdusia
 
 
-[ORKO maps](orko_tif_new2.html)
+[ORKO maps](orko_v3.html)
 
 - Rizikove obce - mapa vytvorena na baze rankingu zohladnujucom mnozstvo emsii z domacich kurenisk a modelovych vypoctov rizikovych oblasti
-- Rizikove okresy - okres sa povazuje za rizikovy ak pocet rizikovych obci v okrese je 50 % a viac
+- Rizikove okresy - okres sa povazuje za rizikovy ak pocet rizikovych obci v okrese je 40 % a viac
 - Interaktivna mapa kurenisk
 - NEIS zdroje v interaktivnej podobe pre rok 2019
 - Domace kureniska interaktivne a staticke mapy
