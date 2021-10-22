@@ -1,7 +1,7 @@
 # Zdroje emisií a oblasti s rizikom zhoršenej kvality ovzdušia
 
 
-[Interaktívna mapa](orko_v4.html) obsahuje nasledujúce vrstvy:
+[Interaktívna mapa](orko_v5.html) obsahuje nasledujúce vrstvy:
 - Administratívne delenie územia - hranice krajov a okresov
 - Polohy monitorovacích staníc kvality ovzdušia (NMSKO)
 - Obce s rizikom zhoršenej kvality ovzdušia  - určené na základe rankingu zohľadňujúceho emisie 
