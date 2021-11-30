@@ -11,7 +11,7 @@
 - Interaktívna mapa obcí s informáciami o  lokálnom vykurovaní rodinných domov 
   (počet rodinných domov, počet rodinných domov s jednotlivými druhmi palív). 
   Ide o údaje zo Sčitania  obyvateľov, bytov a domov 2011. 
-- Rastrová mapa emisií PM10 z lokálnych kúrenísk (Vypočítaná pre r. 2020 na základe dát z roku 2011 a časových extrapolácií)
+- Rastrová mapa emisií PM10 z lokálnych kúrenísk (Vypočítaná pre r. 2019 na základe dát z roku 2011 a časových extrapolácií)
 - Interaktívna vrstva malých a stredných zdrojov z databázy NEIS (členené na komíny, výduchy a fugitívne emisie). 
   Táto vrstva však môže obsahovať chyby v polohe niektorých zdrojov a v hodnotách fyzikálnych parametrov zdrojov. 
   Tieto parametre sú niekedy nahlasované chybne a zatiaľ nie sú dostatočne efektívne kontrolované)
